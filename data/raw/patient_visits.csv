@@ -1,0 +1,7 @@
+visit_id,patient_id,department,admit_time,discharge_time,cost,diagnosis
+V001,P001,ER,2026-01-01 09:15,2026-01-01 13:20,1200,Chest Pain
+V002,P002,Cardiology,2026-01-02 10:00,2026-01-02 11:45,800,Arrhythmia
+V003,P003,Neurology,2026-01-03 08:30,2026-01-03 10:10,650,Migraine
+V004,P004,ER,2026-01-03 21:10,2026-01-04 01:05,1500,Fracture
+V005,P005,PrimaryCare,2026-01-04 14:00,2026-01-04 14:25,150,Checkup
+V006,P006,ER,2026-01-05 18:40,2026-01-05 17:20,900,DataErrorExample
